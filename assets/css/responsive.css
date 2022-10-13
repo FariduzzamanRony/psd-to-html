@@ -1,0 +1,327 @@
+
+@media (min-width: 1200px) { .ttt {
+
+	padding-top: 65px;
+}
+
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        #service {
+	padding-top: 100px;
+	padding-bottom: 20px; 
+	
+}
+    #protfolio {
+	 padding-bottom: 100px; 
+}
+.feed-item p {
+	font-size: 26px;
+	line-height: 26px;
+} 
+.feed-text-slider {
+	padding-top: 26px;
+}    
+   .navbar-light .navbar-toggler {
+	color: #fff;
+	border: 2px solid #fff;
+}
+            .ttt {
+	
+	 padding-top: 35px; 
+}
+    .testimonial_text p {
+	font-size: 20px;
+
+}
+        .testimonial_text h5 {
+        margin-top: 15px;
+	font-size: 10px;
+	
+}
+    .testimonial_text{
+        padding-right: 40px;
+      padding-left: 45px;
+}
+    .slick-dots {
+margin-left: 60px;
+margin-top: 40px;
+}
+      
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+   .navbar-toggler i {
+    color: #fff;
+    font-size: 24px;
+} 
+.navbar-light .navbar-toggler {
+    border-color: transparent;
+}
+.navbar-nav {
+	background: #3a3e64;
+	text-align: center;
+	padding: 10px 0;
+	margin-top: 20px;
+}
+
+    
+ .navbar-toggler i {
+	color: #fff;
+	font-size: 24px;
+}   
+  .navbar-light .navbar-toggler {
+	color: #fff;
+	border: 2px solid #fff;
+} 
+  .navbar-light .navbar-toggler {
+	color: #fff;
+	border: 2px solid #fff;
+}
+    .banner_text h1 {
+	font-size: 34px;
+
+}
+        #banner {
+	padding-top: 190px;
+
+}  
+    .main_team {
+	margin-bottom: 80px;
+} 
+   #team {
+	 padding-bottom: 0px;
+	padding-top: 1px; 
+}
+        .ttt {
+	
+	 padding-top: 35px; 
+}
+    .testimonial_text p {
+	font-size: 20px;
+
+}
+        .testimonial_text h5 {
+        margin-top: 15px;
+	font-size: 10px;
+	
+}
+    .testimonial_text{
+        padding-right: 20px;
+      padding-left: 15px;
+}
+    .slick-dots {
+margin-left: 20px;
+margin-top: 20px;
+}
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+      .navbar-light .navbar-toggler {
+	color: #fff;
+	border: 2px solid #fff;
+}
+   
+    .navbar-toggler i {
+    color: #fff;
+    font-size: 24px;
+} 
+.navbar-light .navbar-toggler {
+    border-color: transparent;
+}
+.navbar-nav {
+	background: #3a3e64;
+	text-align: center;
+	padding: 10px 0;
+	margin-top: 20px;
+}
+  .navbar-light .navbar-toggler {
+	color: #fff;
+	border: 2px solid #fff;
+}
+    
+  .banner_text h1 {
+	font-size: 26px;
+	
+}  
+     #banner {
+	padding-top: 200px;
+
+}  
+      #service {
+	padding-bottom: 10px;
+
+}
+    .main_protfolio img{
+        text-align: center;
+    }
+  .main_team {
+	margin-bottom: 50px;
+      
+} 
+      #team {
+
+	text-align: center;
+}  
+ .main_team p {
+
+	padding-left: 20px;
+     padding-right: 20px;
+} 
+.slick-dots {
+margin-left: 95px;
+margin-top: 35px;
+}
+        .main_footer i {
+	margin-bottom: 20px;
+}
+       .main_footer{
+        margin-bottom: 30px;
+    }
+    .ttt {
+	
+	 padding-top: 35px; 
+}
+ .testimonial_text p {
+	font-size: 16px;
+}
+    .testimonial_text h5 {
+        margin-top: 5px;
+	font-size: 10px;
+	
+}
+    .testimonial_text{
+        padding-right: 35px;
+      padding-left: 35px;
+}
+    #team {
+	padding-bottom: 10px;
+        padding-top: 10px;
+}
+
+}
+
+@media (max-width: 575.98px) {
+.navbar-toggler i {
+    color: #fff;
+    font-size: 24px;
+} 
+.navbar-light .navbar-toggler {
+    border-color: transparent;
+}
+.navbar-nav {
+	background: #3a3e64;
+	text-align: center;
+	padding: 10px 0;
+	margin-top: 20px;
+}
+
+    
+ .navbar-toggler i {
+	color: #fff;
+	font-size: 24px;
+}   
+  .navbar-light .navbar-toggler {
+	color: #fff;
+	border: 2px solid #fff;
+}  
+    #banner {
+	padding-top: 170px;
+        padding-bottom:  100px;
+}
+ .banner_text h1 {
+
+	font-size: 22px;
+
+}
+       .banner_text p {
+	padding: 8px;
+}
+     #service {
+	padding-bottom: 10px;
+
+}   
+  .service_main p {
+	padding-left: 20px;
+      padding-right: 20px;
+}  
+.main_team {
+	margin-bottom: 40px;
+} 
+  #team {
+
+	text-align: center;
+}  
+ .main_team p {
+
+	padding-left: 20px;
+     padding-right: 20px;
+} 
+.slick-dots {
+margin-left: 95px;
+margin-top: 55px;
+}
+        .main_footer i {
+	margin-bottom: 20px;
+}
+        .ttt {
+	
+	padding-top: 40px;
+}
+    .testimonial_text {
+	padding-right: 40px;
+	padding-left: 35px;
+}
+      .main_footer{
+        margin-bottom: 30px;
+    }
+    
+}
+
+@media(min-width:480px) and (max-width:575.98px){
+.navbar-toggler i {
+	color: #fff;
+	font-size: 24px;
+}
+ .navbar-light .navbar-toggler {
+	color: #fff;
+	border: 2px solid #fff;
+}
+    #banner {
+	padding-top: 130px;
+}
+ .banner_text h1 {
+
+	font-size: 20px;
+
+}  
+    .banner_text p {
+	padding: 8px;
+}
+    #service {
+	padding-bottom: 10px;
+
+}
+    .main_footer i {
+	margin-bottom: 20px;
+}
+    .ttt {
+	
+	padding-top: 40px;
+}
+       .testimonial_text {
+	padding-right: 40px;
+	padding-left: 35px;
+}
+    .main_team {
+	margin-bottom: 40px;
+}
+    .main_footer{
+        margin-bottom: 30px;
+    }
+    
+}
+
+
